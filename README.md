@@ -5,6 +5,8 @@ OpenSim script language und Second Life script language Erweiterung für Notepad
 
 OSSL und LSL sind farblich getrennt.
 
+Bei lsl2.xml ist "Phoenix LSL Präprozessor" hinzugefügt Schwarz mit Orangem Hintergrund.
+
 # Installation:
 
 
