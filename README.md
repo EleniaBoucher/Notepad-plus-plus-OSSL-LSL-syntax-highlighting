@@ -7,6 +7,8 @@ OSSL und LSL sind farblich getrennt.
 
 Bei lsl2.xml ist "Phoenix LSL Präprozessor" testweise hinzugefügt, Schwarz mit Orangem Hintergrund.
 
+http://wiki.secondlife.com/wiki/User:Toy_Wylie/Phoenix/Preprocessor
+
 # Installation:
 
 
