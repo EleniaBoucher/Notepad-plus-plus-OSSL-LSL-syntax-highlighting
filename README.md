@@ -3,6 +3,8 @@ Notepad++  OSSL-LSL language
 
 OpenSim script language und Second Life script language Erweiterung für Notepad++
 
+OSSL und LSL sind farblich getrennt.
+
 # Installation:
 
 
