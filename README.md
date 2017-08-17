@@ -3,15 +3,15 @@ Notepad++  OSSL-LSL language
 
 OpenSim script language und Second Life script language Erweiterung für Notepad++
 
-#Installation:
+# Installation:
 
 
-#Dies ist für die Autovervollständigung.
+# Dies ist für die Autovervollständigung.
 
 Den Inhalt des Verzeichnis plugins/APIs in das gleichnamige Verzeichnis von Notepad++ kopieren.
 
 
-#Dies ist für die eigentliche Syntax Hervorhebung.
+# Dies ist für die eigentliche Syntax Hervorhebung.
 
 Notepad++ starten dann unter Sprachen – Eigene Sprachen definieren… auswählen.
 
