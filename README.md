@@ -1,5 +1,5 @@
 # Notepad--OSSL-LSL
-Notepad++  OSSL-LSL language
+Notepad++  OSSL-LSL language mit Autovervollständigung
 
 OpenSim script language und Second Life script language Erweiterung für Notepad++
 
