@@ -758,7 +758,7 @@
 <KeyWord name="TOUCH_INVALID_TEXCOORD"/>
 <KeyWord name="TOUCH_INVALID_VECTOR"/>
 <KeyWord name="ZERO_VECTOR"/>
-<KeyWord name="ZERO_ROTATION</Keywords>"/>
+<KeyWord name="ZERO_ROTATION"/>
 <KeyWord name="at_rot_target"/>
 <KeyWord name="at_target"/>
 <KeyWord name="attach"/>
@@ -794,7 +794,7 @@
 <KeyWord name="touch"/>
 <KeyWord name="touch_end"/>
 <KeyWord name="touch_start"/>
-<KeyWord name="transaction_result</Keywords>"/>
+<KeyWord name="transaction_result"/>
 <KeyWord name="default"/>
 <KeyWord name="state"/>
 <KeyWord name="do"/>
@@ -1243,7 +1243,7 @@
 <KeyWord name="llWind"/>
 <KeyWord name="llXorBase64"/>
 <KeyWord name="llXorBase64Strings"/>
-<KeyWord name="llXorBase64StringsCorrect</Keywords>"/>
+<KeyWord name="llXorBase64StringsCorrect"/>
 <KeyWord name="osForceAttachToAvatarFromInventory"/>
 <KeyWord name="osForceSit"/>
 <KeyWord name="osAgentSaveAppearance"/>
