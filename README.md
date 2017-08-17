@@ -1,4 +1,4 @@
-# Notepad--OSSL-LSL
+# Notepad++ OSSL-LSL Syntax mit Autovervollständigung
 Notepad++  OSSL-LSL language mit Autovervollständigung
 
 OpenSim script language und Second Life script language Erweiterung für Notepad++
