@@ -11,6 +11,7 @@ http://wiki.secondlife.com/wiki/User:Toy_Wylie/Phoenix/Preprocessor
 
 # Installation:
 
+Bitte benutzt entweder lsl oder nennt lsl2 in lsl um und nutzt dieses.
 
 # Dies ist für die Autovervollständigung.
 
